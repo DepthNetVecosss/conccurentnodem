@@ -1,6 +1,6 @@
 # Coordinator connectivity configuration.
 [coordinator]
-address = "http://coordi.rifai.app"
+address = "http://ghorg.rifai.app"
 reconnect_delay_secs = 3
 poll_interval_millis = 50
 
